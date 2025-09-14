@@ -1,0 +1,2 @@
+final apiUrl= "https://xpbysmhmgzvozivyhibv.supabase.co";
+final anonKey="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhwYnlzbWhtZ3p2b3ppdnloaWJ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM5NTA1MTgsImV4cCI6MjA2OTUyNjUxOH0.0H0TipJIzQZH7x-0RIROcUedhaWO4Rmzgx4a_C7e1EA";
